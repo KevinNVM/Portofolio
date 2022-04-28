@@ -1,3 +1,3 @@
 # my-website
-Simple Portofolio Website \n
-Design by : Web Programming UNPAS on yt
+##Simple Portofolio Website
+###Design by : Web Programming UNPAS on yt
